@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Srikanth! 
 
-👨‍💻 Software Engineer, focused on solving challenges using data and technologies.<br/>
+👨‍💻 Software Engineer, focused on solving challenges using Data and ML technologies.<br/>
 👨‍🎓 Studied Master's in Data Science at the Northeastern University, USA.<br/>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
