@@ -1,7 +1,10 @@
 ## 👋 Hi, I'm Srikanth! 
 
-👨‍💻 Software Engineer, focused on solving challenges using Data and ML technologies.<br/>
-👨‍🎓 Studied Master's in Data Science at the Northeastern University, USA.<br/>
+👨‍💻 Senior Software Engineer building Data and AI solutions that leverage the Big Data and Machine learning technologies.<br/>
+
+<!-- Software Engineer, focused on solving challenges using Data and ML technologies.<br/> -->
+
+👨‍🎓 Studied Master's in Data Science at the Northeastern University, Boston, USA.<br/>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- [![Srikanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=srikanthmandru)](https://github.com/srikanthmandru/github-readme-stats) -->
