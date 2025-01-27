@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Srikanth! 
 
-👨‍💻 Senior Software Engineer building Data solutions that leverage the Big Data, Statistical analysis and Machine learning technologies.<br/>
+👨‍💻 Senior Software Engineer building Web applications and Data platforms that leverage AI and Big Data technologies.<br/>
 
 <!-- Software Engineer, focused on solving challenges using Data and ML technologies.<br/> -->
 
