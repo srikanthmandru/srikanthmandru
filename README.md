@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Srikanth! 
 
-👨‍💻 Senior Software Engineer building Full-Stack Web applications using Python, JavaScript and Java Frameworks.<br/>
+👨‍💻 Senior Software Engineer building Full-Stack Web applications using Python, JavaScript and Java Frameworks leveraging AI technologies.<br/>
 
 <!--  Senior Software Engineer building Full-Stack Web applications and Data platforms that leverage AI and Big Data technologies.<br/> -->
 <!-- Software Engineer, focused on solving challenges using Data and ML technologies.<br/> -->
