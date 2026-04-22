@@ -8,6 +8,7 @@
 👨‍🎓 Studied Master's in Data Science at the Northeastern University, Boston, USA.<br/>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile#-artificial-intelligence- -->
 <!-- [![Srikanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=srikanthmandru)](https://github.com/srikanthmandru/github-readme-stats) -->
 
 # 💻 Tech Stack:
